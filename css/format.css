@@ -31,7 +31,7 @@
 }
 
 #together{
-	font-size: 25px;
+	font-size: 35px;
 	text-align: center;
 	color: white;
 }
@@ -39,6 +39,7 @@
 #timer{
 	text-align: center;
 	color: white;
+	font-size: 30px;
 }
 
 #d{
